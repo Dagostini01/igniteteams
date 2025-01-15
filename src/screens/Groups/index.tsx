@@ -1,9 +1,9 @@
-import { View } from "react-native";
+import { View, Text } from "react-native";
 
 export function Groups() {
     return (
         <View>
-            
+            <Text>Olá</Text>
         </View>
     )
 }
